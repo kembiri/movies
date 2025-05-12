@@ -17,7 +17,7 @@
 </div>
 
   <script>
-    fetch('data/films2.json')
+    fetch('movies/data/films2.json')
       .then(response => response.json())
       .then(data => {
         const allFilms = [...data.dramas, ...data.movies];
