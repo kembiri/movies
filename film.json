@@ -164,9 +164,26 @@
       "poster": "https://blogger.googleusercontent.com/img/a/AVvXsEgcjHNLAUeNEgU0Rn81C4kfwB-ZowoaqaBHaNQ-OEm3ru_gRUzD-GufWVOf5oiwLg5iVMfaqeNb_QGCvykb_GhWxzp2kF1AKBR_u6a910ERqyhDgWZi3LfRgbs-8v9XVfJrhciBg5uNvlOZfJiFdraYii10Y0ogZ8mPSziBHQq7YAZED1wBE7Ps8rkU=s320",
       "image": "https://thumbor.prod.vidiocdn.com/KdCLJ13cxTIEUnQ4ITHGYYxAXRc=/960x540/filters:quality(75)/vidio-media-production/uploads/image/source/4476/6c772c.jpg",
       "episodes": [
-        { "label": "Episode 1", "url": "https://example.com/ep1.mp4" },
-        { "label": "Episode 2", "url": "https://example.com/ep2.mp4" },
-        { "label": "Episode 3", "url": "https://example.com/ep3.mp4" }
+              { "label": "Episode 1", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Dr%20romantic%20nangmandakteo%20kimsaboo%20season%201%20episode%201%202016%20mp4.mp4?alt=media&token=" },
+      { "label": "Episode 2", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Dr%20romantic%20nangmandakteo%20kimsaboo%20season%201%20episode%202%202016%20mp4.mp4?alt=media&token=" },
+      { "label": "Episode 3", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Dr%20romantic%20nangmandakteo%20kimsaboo%20season%201%20episode%203%202016%20mp4.mp4?alt=media&token=" },
+      { "label": "Episode 4", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Dr%20romantic%20nangmandakteo%20kimsaboo%20season%201%20episode%204%202016%20mp4.mp4?alt=media&token=" },
+      { "label": "Episode 5", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2Fdr-romantic-nangmandakteo-kimsaboo-season-1-episode-5-2016.mp4?alt=media&token=" },
+      { "label": "Episode 6", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2Fdr-romantic-nangmandakteo-kimsaboo-season-1-episode-6-2016.mp4?alt=media&token=" },
+      { "label": "Episode 7", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Dr%20romantic%20nangmandakteo%20kimsaboo%20season%201%20episode%207%202016.mp4?alt=media&token=" },
+        { "label": "Episode 8", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Dr%20romantic%20nangmandakteo%20kimsaboo%20season%201%20episode%208%202016.mp4?alt=media&token=" },
+        { "label": "Episode 9", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Dr%20romantic%20nangmandakteo%20kimsaboo%20season%201%20episode%209%202016.mp4?alt=media&token=" },
+        { "label": "Episode 10", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Dr%20romantic%20nangmandakteo%20kimsaboo%20season%201%20episode%2010.mp4?alt=media&token=" },
+        { "label": "Episode 11", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Dr%20romantic%20nangmandakteo%20kimsaboo%20season%201%20episode%2011.mp4?alt=media&token=" },
+        { "label": "Episode 12", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Dr%20romantic%20nangmandakteo%20kimsaboo%20season%201%20episode%2012.mp4?alt=media&token=" },
+        { "label": "Episode 13", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Dr-romantic-nangmandakteo-kimsaboo-season-1-episode-13-2016.mp4?alt=media&token=" },
+        { "label": "Episode 14", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Dr-romantic-nangmandakteo-kimsaboo-season-1-episode-14-2016.mp4?alt=media&token=" },
+        { "label": "Episode 15", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Dr-romantic-nangmandakteo-kimsaboo-season-1-episode-15-2016.mp4?alt=media&token=" },
+        { "label": "Episode 16", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Dr-romantic-nangmandakteo-kimsaboo-season-1-episode-16-2016.mp4?alt=media&token=" },
+        { "label": "Episode 17", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Dr-romantic-nangmandakteo-kimsaboo-season-1-episode-17-2016.mp4?alt=media&token=" },
+        { "label": "Episode 18", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Dr-romantic-nangmandakteo-kimsaboo-season-1-episode-18-2016.mp4?alt=media&token=" },
+        { "label": "Episode 19", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Dr-romantic-nangmandakteo-kimsaboo-season-1-episode-19-2016.mp4?alt=media&token=" },
+        { "label": "Episode 20", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Dr-romantic-nangmandakteo-kimsaboo-season-1-episode-20-2016.mp4?alt=media&token=" }
       ]
     },
     {
