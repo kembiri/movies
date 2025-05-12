@@ -215,7 +215,24 @@
 
       ]
     },
-	  
+	  {
+      "title": "Blood Free (2024) - Season 1",
+      "slug": "blood-free",
+      "poster": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gxd86XTik9QfPLXxbMiMdsg407V.jpg",
+      "image": "https://media.themoviedb.org/t/p/w533_and_h300_bestv2/e8Wc24ZfbJngAQBkIDape6OOku0.jpg",
+      "episodes": [
+      { "label": "Episode 1", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Blood%20Free%20Season%201%20Episode%201%202024%201713533472%20mp4.mp4?alt=media&token=" },
+        { "label": "Episode 2", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Blood%20Free%20Season%201%20Episode%202%202024%201713533491%20mp4.mp4?alt=media&token=" },
+        { "label": "Episode 3", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Blood%20Free%20Season%201%20Episode%203%202024%201713533518%20mp4.mp4?alt=media&token=" },
+        { "label": "Episode 4", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Blood%20Free%20Season%201%20Episode%204%202024%201713533535%20mp4.mp4?alt=media&token=" },
+        { "label": "Episode 5", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Blood%20Free%20Season%201%20Episode%205%202024%201713969185%20mp4.mp4?alt=media&token=" },
+        { "label": "Episode 6", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Blood%20Free%20Season%201%20Episode%206%202024%201713969719%20mp4.mp4?alt=media&token=" },
+        { "label": "Episode 7", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Blood%20Free%20Season%201%20Episode%207%202024%201714578920%20mp4.mp4?alt=media&token=" },
+        { "label": "Episode 8", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Blood%20Free%20Season%201%20Episode%208%202024%201714578968mp4.mp4?alt=media&token=" },
+        { "label": "Episode 9", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Blood%20Free%20Season%201%20Episode%209%202024%201715260204%20mp4.mp4?alt=media&token=" },
+        { "label": "Episode 10", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Blood%20Free%20Season%201%20Episode%2010%202024%201715260322mp4.mp4?alt=media&token=" }
+        ],
+    },
 	  {
       "title": "Yong-pal (The Gang Doctor) (2015)",
       "slug": "yong-pal-the-gang-doctor-2015",
