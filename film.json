@@ -330,6 +330,30 @@
         { "label": "Episode 15", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20The%20k2%20season%201%20episode%2015%202016%20mp4.mp4?alt=media&token=" },
         { "label": "Episode 16", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20The%20k2%20season%201%20episode%2016%202016%20mp4.mp4?alt=media&token=" }
       ]
+    },
+	        {
+      "title": "Itaewon Class (Itaewon Keullasseu) (2020)",
+      "slug": "itaewon-class-2020",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODEyZmVlMWEtYjNmNS00MTQ5LThlMzgtZjM4YjNhMGVkZWI4XkEyXkFqcGc@._V1_FMjpg_UX800_.jpg",
+      "image": "https://blackrose.id/wp-content/uploads/2020/03/itaewon_class-mp1_ratio-16x9-1.jpg",
+      "episodes": [
+      { "label": "Episode 1", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Itaewon%20class%20itaewon%20keullasseu%20season%201%20episode%201%202020%20mp4.mp4?alt=media&token=" },
+      { "label": "Episode 2", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Itaewon%20class%20itaewon%20keullasseu%20season%201%20episode%202%202020%20mp4.mp4?alt=media&token=" },
+      { "label": "Episode 3", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Itaewon%20class%20itaewon%20keullasseu%20season%201%20episode%203%202020%20mp4.mp4?alt=media&token=" },
+        { "label": "Episode 4", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Itaewon%20class%20itaewon%20keullasseu%20season%201%20episode%204%202020%20mp4.mp4?alt=media&token=" },
+        { "label": "Episode 5", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Itaewon%20class%20itaewon%20keullasseu%20season%201%20episode%205%202020%20mp4.mp4?alt=media&token=" },
+        { "label": "Episode 6", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Itaewon%20class%20itaewon%20keullasseu%20season%201%20episode%206%202020%20mp4.mp4?alt=media&token=" },
+        { "label": "Episode 7", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Itaewon%20class%20itaewon%20keullasseu%20season%201%20episode%207%202020%20mp4.mp4?alt=media&token=" },
+        { "label": "Episode 8", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Itaewon%20class%20itaewon%20keullasseu%20season%201%20episode%208%202020%20mp4.mp4?alt=media&token=" },
+        { "label": "Episode 9", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Itaewon%20class%20itaewon%20keullasseu%20season%201%20episode%209%202020%20mp4.mp4?alt=media&token=" },
+        { "label": "Episode 10", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21FUNItaewonclassitaewonkeullasseuseason1episode10_2020mp4.mp4?alt=media&token=" },
+        { "label": "Episode 11", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Itaewon%20class%20itaewon%20keullasseu%20season%201%20episode%2011%202020%20mp4.mp4?alt=media&token=" },
+        { "label": "Episode 12", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Itaewon%20class%20itaewon%20keullasseu%20season%201%20episode%2012%202020%20mp4.mp4?alt=media&token=" },
+        { "label": "Episode 13", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21%20FUN%20Itaewon%20class%20itaewon%20keullasseu%20season%201%20episode%2013%202020%20mp4.mp4?alt=media&token=" },
+        { "label": "Episode 14", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21FUNItaewonclassitaewonkeullasseuseason1episode14_2020mp4.mp4?alt=media&token=" },
+        { "label": "Episode 15", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21FUNItaewonclassitaewonkeullasseuseason1episode15_2020mp4.mp4?alt=media&token=" },
+        { "label": "Episode 16", "url": "https://firebasestorage.googleapis.com/v0/b/bangden-com.appspot.com/o/upload%2FD21FUNItaewonclassitaewonkeullasseuseason1episode16_2020mp4.mp4?alt=media&token=" }
+        ]
     }
   ],
   "movies": [
